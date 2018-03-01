@@ -5,7 +5,7 @@ Internship project
 This project was for my final year in Electrical and Industrial Data Processing. 
 I did a 3 months internship in Malaysia  at the Universiti Teknologi Petronas.
 
-My project was to measure the temperature during bone drilling for medical applicatio.
+My project was to measure the temperature during bone drilling for medical application.
 And control which parameters influence the increasing of the bone temperature.
 
 # Goals 
@@ -13,10 +13,10 @@ And control which parameters influence the increasing of the bone temperature.
 2. Preparation of the bone samples
 3. Drilling of the bone samples
 4. Collecting and Analyse the data
-5. Give conclusion on the influence of each parameters during the experiments
+5. Give conclusion on the influences of each parameters during the experiments
 
 # Equipements used
-- Thermocoup
+- Thermocouple
 - Mazak Machine
 - Roughness test SV-3000
 - Scanning Electron Microscope (SEM)
@@ -24,14 +24,7 @@ And control which parameters influence the increasing of the bone temperature.
 # Supervisor
 Dr Turnad Lenggo Ginta
 
-Dr Adam Umar Alkali
-
-Mohammad Danish PhD 
-
-
 # Department
 Mechanical Engineering
 
-Universiti Teknologi Petronas 
-Seri Iskandar, Malaysia
 
