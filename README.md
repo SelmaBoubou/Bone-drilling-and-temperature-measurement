@@ -9,13 +9,13 @@ My project was to measure the temperature during bone drilling for medical appli
 And control which parameters influence the increasing of the bone temperature.
 
 # Goals 
-1 . Literature review of papers, articles based on methods available
-2 . Preparation of the bone samples
-3 . Drilling of the bone samples
-4 . Collecting and Analyse the data
-5 . Give conclusion on the influence of each parameters during the experiments
+1. Literature review of papers, articles based on methods available
+2. Preparation of the bone samples
+3. Drilling of the bone samples
+4. Collecting and Analyse the data
+5. Give conclusion on the influence of each parameters during the experiments
 
-#Equipements used
+# Equipements used
 - Thermocoup
 - Mazak Machine
 - Roughness test SV-3000
